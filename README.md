@@ -18,7 +18,7 @@ The Bank Management System is a web-based application developed using Spring Boo
 ## Installation
 
 To run the Bank Management System locally, you will need the following:
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 - PostgreSQL
 
@@ -26,12 +26,12 @@ Once you have the required tools installed, follow these steps to install the Ba
 
 1. Clone this repository:
     ```shell
-       git clone https://github.com/Mohammed-eid35/bank-management-system-springboot.git
+       git clone https://github.com/techflow21/springboot-bankapp.git
     ```
 2. Edit the database configurations in application.properties file.
 3. Navigate to the project directory:
     ```shell
-    cd bank-management-system-springboot
+    cd springboot-bankapp
     ```
 4. Build and run the application using Maven
     ```shell
