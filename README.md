@@ -1,4 +1,4 @@
-# Bank Management System
+# Bank Management System (Spring Boot)
 Welcome to the Bank Management System repository built using Spring Boot! This project is designed to provide a foundation for managing banking operations using modern web technologies.
 
 ## Introduction
