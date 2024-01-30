@@ -1,16 +1,6 @@
 # Bank Management System
 Welcome to the Bank Management System repository built using Spring Boot! This project is designed to provide a foundation for managing banking operations using modern web technologies.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Datavase Schema](#database-schema)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-
-
 ## Introduction
 
 The Bank Management System is a web-based application developed using Spring Boot that aims to streamline various banking operations. This system offers features to manage customer accounts and perform transactions.
@@ -18,7 +8,7 @@ The Bank Management System is a web-based application developed using Spring Boo
 
 ## Features
 
-- User-Friendly Web Interface: Enjoy a user-friendly web interface designed for both customers, crafted using Angular. Check out the frontend repository on [GitHub](https://github.com/Mohammed-eid35/bank-management-system-angular).
+- User-Friendly Web Interface: Enjoy a user-friendly web interface designed for both customers, crafted using Angular. Check out the frontend repository on [GitHub](https://github.com/techflow21/springboot-bankapp).
 - Authentication and Authorization: We prioritize security by implementing robust user authentication and authorization mechanisms, guaranteeing safe and controlled access to the system.
 - Multi-Account Support: Users have the convenience of creating up to three separate accounts within the system, catering to various financial needs and goals.
 - Comprehensive Account Details: Customers can easily access a wealth of information about their accounts, including balance summaries, card numbers, CVV numbers, and more. This empowers users with a clear overview of their financial status.
