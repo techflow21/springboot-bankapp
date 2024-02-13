@@ -11,7 +11,6 @@ The Bank Management System is a web-based application developed using Spring Boo
 - Comprehensive Account Details: Customers can easily access a wealth of information about their accounts, including balance summaries, card numbers, CVV numbers, and more. This empowers users with a clear overview of their financial status.
 - Efficient Transaction Handling: Our system offers well-defined API endpoints that enable seamless fund transfers between accounts. This ensures efficient and accurate transaction processing.
 
-
 ## Installation
 
 To run the Bank Management System locally, you will need the following:
