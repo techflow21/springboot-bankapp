@@ -50,37 +50,6 @@ Once you have the required tools installed, follow these steps to install the Ba
 
 
 ## Database Schema
-```mermaid
-erDiagram
-    User {
-        SERIAL id PK
-        VARCHAR name
-        VARCHAR password
-        VARCHAR phone "UNIQUE"
-        VARCHAR email "UNIQUE"
-    }
-    
-    Account {
-        SERIAL id PK
-        VARCHAR card_number "UNIQUE"
-        VARCHAR cvv
-        DOUBLE balance
-        SERIAL user_id FK
-    }
-
-    Transaction {
-        SERIAL id PK
-        VARCHAR type
-        DOUBLE amount
-        TEXT notes
-        DATE timestamp
-        SERIAL account_id FK
-    }
-
-    User ||--o{ Account : "has"
-    Account ||--o{ Transaction : "history"
-```
-
 
 ## Technologies Used
 - Java
